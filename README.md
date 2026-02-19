@@ -3,6 +3,8 @@
 
 Professional data project for exploring associations between air pollution and health outcomes. This repository includes a Streamlit dashboard for interactive exploration, a Jupyter notebook with reproducible analysis, and the dataset used for demonstrations.
 
+view Streamlit App here 👉 https://air-quality-health-impact-paqj6wjwnob2zfc5wssav2.streamlit.app/
+
 Overview:
 - Objective: Provide tools to explore, visualize, and model relationships between air quality indicators (e.g., PM2.5, NO2) and health metrics (e.g., respiratory hospitalizations, mortality) using a single, shareable dataset.
 - Audience: data scientists, public-health analysts, policy researchers, and educators who need an interactive demo and reproducible analysis.
