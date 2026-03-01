@@ -40,7 +40,7 @@ This is a **major capstone project** that implements a complete end-to-end machi
 - Contact
 
 ## Overview
-The AQI Prediction System demonstrates the full ML lifecycle: data ingestion, cleaning, feature engineering, model training and validation, and deployment through a lightweight Streamlit app for real-time predictions and interpretation. The project is designed for reproducibility, transparency, and practical delivery for environmental monitoring.
+The AQI Prediction System demonstrates the full ML lifecycle: data ingestion, cleaning, feature engineering, model training and validation, and deployment through a lightweight Streamlit app for real-time predictions and interpretation. The project is designed for reproducibility, transparency, and practical delivery for environmental monitoring..
 
 ## Problem statement
 Build supervised models to predict numeric AQI values (regression) and/or AQI categories (classification) from pollutant concentrations and environmental variables, then expose those predictions through a simple web UI that explains likely health impacts.
