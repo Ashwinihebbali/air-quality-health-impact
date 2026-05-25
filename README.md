@@ -2,7 +2,7 @@
 ## *Advanced Supervised Machine Learning & Environmental Data Science*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikit-learn)](https://scikit-learn.org)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square&logo=scikit-learn)](https://scikit-learn.org) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat-square&logo=streamlit)](https://streamlit.io) 
 [![Jupyter](https://img.shields.io/badge/Jupyter-Analysis-important?style=flat-square&logo=jupyter)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
