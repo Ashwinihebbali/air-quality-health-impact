@@ -1,4 +1,4 @@
-# 🌐 Air Quality Index (AQI) Prediction System
+# 🌐 Air Quality Index (AQI) Prediction System 
 ## *Advanced Supervised Machine Learning & Environmental Data Science* 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org)
